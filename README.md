@@ -50,7 +50,7 @@ This project consists of a set of Flask APIs designed to analyze sales data and 
     ## Installation & Setup
     ### 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/yourusername/memotag-ai-api.git
+    git clone [https://github.com/yourusername/memotag-ai-api.git](https://github.com/kaushik397/memotag-sales-ai.git)
     cd memotag-ai-api
     ```
     
@@ -71,7 +71,7 @@ This project consists of a set of Flask APIs designed to analyze sales data and 
     
     ---
     ## Deployment
-    The API is deployed at: **[Live API Endpoint](https://your-deployment-url.com)**
+    The API is deployed at: **[Live API Endpoint](https://memotag-sales-ai.onrender.com/apidocs/)**
     
     You can use **Render, Heroku, or Google Cloud** to deploy the API.
     
@@ -114,8 +114,8 @@ This project consists of a set of Flask APIs designed to analyze sales data and 
     
     ---
     ## Submission Details
-    - **Live API:** [Deployed API Link](https://your-deployment-url.com)
-    - **GitHub Repo:** [Repository Link](https://github.com/yourusername/memotag-ai-api)
+    - **Live API:** [Deployed API Link](https://memotag-sales-ai.onrender.com/apidocs/)
+    - **GitHub Repo:** [Repository Link](https://github.com/kaushik397/memotag-sales-ai.git)
     
     ---
     ## Contact
