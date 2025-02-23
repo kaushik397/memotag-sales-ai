@@ -1,0 +1,30 @@
+Section,Category,Metric,Value
+Sales Summary,Total Revenue,INR,1250000
+Sales Summary,Total Units Sold,Units,8450
+Sales Summary,Average Order Value,INR,1480
+Sales Summary,Top Performing Product,Product,Organic Cold Brew Coffee (2150 units)
+Sales Summary,Worst Performing Product,Product,Herbal Detox Tea (320 units)
+Sales Breakdown by Category,Cold Beverages,Revenue (INR),675000
+Sales Breakdown by Category,Cold Beverages,Units Sold,4500
+Sales Breakdown by Category,Cold Beverages,% of Total Sales,54
+Sales Breakdown by Category,Hot Beverages,Revenue (INR),310000
+Sales Breakdown by Category,Hot Beverages,Units Sold,2100
+Sales Breakdown by Category,Hot Beverages,% of Total Sales,25
+Sales Breakdown by Category,Energy Drinks,Revenue (INR),210000
+Sales Breakdown by Category,Energy Drinks,Units Sold,1450
+Sales Breakdown by Category,Energy Drinks,% of Total Sales,17
+Sales Breakdown by Category,Herbal Teas,Revenue (INR),55000
+Sales Breakdown by Category,Herbal Teas,Units Sold,400
+Sales Breakdown by Category,Herbal Teas,% of Total Sales,4
+Sales Performance by Region,Hyderabad,Revenue (INR),500000
+Sales Performance by Region,Hyderabad,Units Sold,3200
+Sales Performance by Region,Hyderabad,Growth (%),12
+Sales Performance by Region,Bengaluru,Revenue (INR),380000
+Sales Performance by Region,Bengaluru,Units Sold,2500
+Sales Performance by Region,Bengaluru,Growth (%),8
+Sales Performance by Region,Mumbai,Revenue (INR),245000
+Sales Performance by Region,Mumbai,Units Sold,1650
+Sales Performance by Region,Mumbai,Growth (%),5
+Sales Performance by Region,Delhi,Revenue (INR),125000
+Sales Performance by Region,Delhi,Units Sold,1100
+Sales Performance by Region,Delhi,Growth (%),-3
